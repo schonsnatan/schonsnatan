@@ -1,11 +1,5 @@
 ### Olá! Eu sou o Natan Schons 👋
 
-- 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke 
-- 🔭 Hoje trabalho coomo Estagiário de TI, em Job Rotation
-- 🌱 Estudando Python para DataScience e Machine Learning, BI e Database
-- 📫 Contate-me no e-mail: natanschonsoficial@gmail.com
-- 🚀 Um jovem interessado no incrível mundo mágico de tecnologia!
-
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schonsnatan&show_icons=true&count_private=true&theme=dracula)
@@ -24,3 +18,11 @@
   <a href = "mailto:natanschonsoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanschons/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+- 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke 
+- 🔭 Hoje trabalho coomo Estagiário de TI, em Job Rotation
+- 🌱 Estudando Python para DataScience e Machine Learning, BI e Database
+- 📫 Contate-me no e-mail: natanschonsoficial@gmail.com
+- 🚀 Um jovem interessado no incrível mundo mágico de tecnologia!
