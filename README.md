@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Natan Schons 👋
 
 
-- 🔭 Hoje trabalho coomo Estagiário de TI, em Job Rotation
+- 🔭 Estagiário de TI 
 - 🌱 Estudando Python para DataScience e Machine Learning, BI e Database
 - 📫 Contate-me no e-mail: natanschonsoficial@gmail.com
 - 🚀 Um jovem interessado no incrível mundo mágico de tecnologia!
