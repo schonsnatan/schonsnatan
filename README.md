@@ -5,6 +5,7 @@
 - 📖 Developing mastery in Data Science, BI, AI, ML, Database and programming, mainly using Python, Power BI and MySQL
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 - 🚀 A young man interested in the incredible magical world of technology!
+- 🗣️ You can speak with me in Portuguese, English, German and Spanish
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke 
 
 
