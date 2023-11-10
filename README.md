@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Natan Schons 👋
 
 
-- 🔭 IT Intern / Kaufmann für Digitalisierungsmanagement
+- 🔭 IT Support Assistant / Kaufmann für Digitalisierungsmanagement
 - 📖 Developing mastery in Data Science, BI, AI, ML, Database and programming, mainly using Python, Power BI and MySQL
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 - 🚀 A young man interested in the incredible magical world of technology!
@@ -16,9 +16,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pandas-logo.svg">
-  <img align="center" alt="Power-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="My-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Power-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">
+  <img align="center" alt="Power-Automate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg">
+  <img align="center" alt="Power-Apps" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps-Colored.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
