@@ -12,6 +12,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schonsnatan&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan)](https://github.com/schonsnatan/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
