@@ -1,7 +1,7 @@
 ### Hi, I'm Natan Schons 👋
 
 
-- 🔭 Data Analyst / Kaufmann für Digitalisierungsmanagement / Computer Science Student
+- 🔭 BPC Analytics @ SAP / Data Analyst / Kaufmann für Digitalisierungsmanagement / Computer Science Student
 - 📖 Developing mastery in Data Science, Data Engineer, BI, AI, ML and Database, mainly using Python, Power BI and SQL
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 - 🚀 A young man interested in the incredible magical world of technology!
