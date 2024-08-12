@@ -2,7 +2,7 @@
 
 
 - 🔭 BPC Analytics @ SAP / Data Analyst / Kaufmann für Digitalisierungsmanagement / Computer Science Student
-- 📖 Developing mastery in Data Science, Data Engineer, BI, AI, ML and Database, mainly using Python, Power BI and SQL
+- 📖 Developing mastery in Data Science, Data Engineer, BI, AI, ML and Database, mainly using Python and SQL
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 - 🚀 A young man interested in the incredible magical world of technology!
 - 🗣️ You can speak with me in Portuguese, English, German and Spanish
