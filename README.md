@@ -12,7 +12,6 @@
 ##
 ![schonsnatan's Stats](https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false)
-![schonsnatan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <div style="display: inline-block;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
