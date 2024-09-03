@@ -10,7 +10,6 @@
 
 
 ##
-![schonsnatan's Stats](https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false)
 
 <div style="display: inline-block;">
