@@ -9,7 +9,7 @@
 
 
 ##
-![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false)
+![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lvgalvao&theme=dracula&hide_border=false)
 
 <div style="display: inline-block;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
