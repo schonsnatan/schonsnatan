@@ -2,12 +2,11 @@
 
 
 - 🔭 BPC Analytics @ SAP / Data Analyst / Kaufmann für Digitalisierungsmanagement / Computer Science Student
+- 🌐 I'm deeply intrigued by the world of technology and thrive on providing valuable insights through data analysis.
 - 📖 Developing mastery in Data Science, Data Engineer, BI, AI and ML
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 - 🗣️ You can speak with me in Portuguese, English, German and Spanish
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
-- 🌐 My passion lies in mastering Data Science, Machine Learning, BI and AI. I'm deeply intrigued by the world of technology and thrive on providing valuable insights through data analysis.
-
 
 
 ##
