@@ -33,7 +33,6 @@
 
 
 ##
-![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false)
 
 # 🌐 Find me here:
  
