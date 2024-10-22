@@ -5,7 +5,7 @@
 - 🌐 I'm deeply intrigued by the world of technology and thrive on providing valuable insights through data analysis.
 - 📖 Developing mastery in Data Science, Data Engineer, BI, AI and ML. Check my [Portfolio!](https://www.datascienceportfol.io/natanschons)
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
-- ✒️ See my content on [Medium](https://medium.com/@natanschons/about)
+- ✒️ See my content on [Medium](https://medium.com/@schonsnatan)
 - 🗣️ You can speak with me in Portuguese, English, German and Spanish
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
 
