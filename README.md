@@ -9,9 +9,12 @@
 - 🗣️ You can speak with me in Portuguese, English, German and Spanish
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
 
-
 ##
-![schonsnatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false)
+<div> 
+  <a href="https://github.com/schonsnatan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schonsnatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 # 💻 Tech Stack:
 
