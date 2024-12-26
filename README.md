@@ -10,11 +10,13 @@
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
 
 ##
-<div> 
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/ThiagoBussola">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schonsnatan&theme=dracula&hide_border=false"/>
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 # 💻 Tech Stack:
 
