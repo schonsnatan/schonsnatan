@@ -18,21 +18,24 @@
 
 # 💻 Tech Stack:
 
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img height="30px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
-<img height="30px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+  <img height="30px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
+  <img height="30px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+</div>
+
 
 ##
 
