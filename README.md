@@ -18,7 +18,7 @@
 
 # 💻 Tech Stack:
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
   <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />
