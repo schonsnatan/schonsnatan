@@ -18,22 +18,21 @@
 
 # 💻 Tech Stack:
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) 
-![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) 
-![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg) 
-![Plotly](https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg) 
-![scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) 
-![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg) ✅
-![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) 
-![My-SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg) 
-![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg) 
-![SAP](https://img.icons8.com/?size=100&id=38192&format=png&color=000000)
-![PowerShell](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) 
-![Power Bi](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000)
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg) 
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) 
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) 
-
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img height="30px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
+<img height="30px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 
 ##
 
