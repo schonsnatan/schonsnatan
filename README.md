@@ -25,6 +25,7 @@
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />&nbsp;&nbsp;
+  <img height="35px" src="  https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
