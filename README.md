@@ -28,7 +28,7 @@
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />&nbsp;&nbsp;
