@@ -20,7 +20,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />&nbsp;&nbsp;
   <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;
