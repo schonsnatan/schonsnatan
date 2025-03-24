@@ -11,8 +11,8 @@
 
 ##
 <div style="display: flex; justify-content: space-between;">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=false"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
 </div>
 
 
