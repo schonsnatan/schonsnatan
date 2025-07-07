@@ -15,29 +15,36 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schonsnatan&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
 </div>
 
-
 # 💻 Tech Stack:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-</div>
+<table>
+  <tr>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"></td>
+  </tr>
+  <tr>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></td>
+    <td><img height="30" src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></td>
+  </tr>
+  <tr>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></td>
+    <td><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></td>
+    <td><img height="30" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg"></td>
+    <td><img height="30" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"></td>
+  </tr>
+  <tr>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></td>
+    <td><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></td>
+  </tr>
+</table>
 
 
 
