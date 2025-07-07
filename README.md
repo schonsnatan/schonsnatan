@@ -1,12 +1,10 @@
 # Hi, I'm Natan Schons 👋
 
-
-
 - 🔍 **Analytics Consultant @ SAP** | **Computer Science Student**  
 - 📊 Passionate about transforming data into meaningful insights.  
 - 🌐 Bridging the gap between business and technology through analytics and software.
 
-##
+<br><br>
 
 ## 🚀 What I'm working on
 
@@ -14,8 +12,7 @@
 - Hands-on experience with **SAP Datasphere**, **SAP Analytics Cloud**, and **Python/SQL** analytics pipelines
 - Exploring the intersection of **intelligent systems** and **software engineering**
 - Check my [Portfolio!](https://www.datascienceportfol.io/natanschons)
-
-##
+<br><br>
 
 ## 💡 About Me
 
@@ -25,24 +22,18 @@
 - 🧠 Lifelong learner, curious about how systems work, and how data can guide better decisions
 - 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
-
-
-##
+<br><br>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=false"/>
 </div>
-
-##
+<br><br>
 
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,kubernetes,docker,html,css)](https://skillicons.dev)
+<br><br>
 
-
-
-
-##
 
 ## 🌐 Connect with me:
  
