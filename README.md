@@ -19,7 +19,7 @@
 
 <h3>💻 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,kubernetes,docker,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,kubernetes,docker,html,css)](https://skillicons.dev)
 
 
 
