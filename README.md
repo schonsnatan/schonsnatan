@@ -3,7 +3,6 @@
 - 🔍 **Analytics Consultant @ SAP** | **Computer Science Student**  
 - 📊 Passionate about transforming data into meaningful insights.  
 - 🌐 Bridging the gap between business and technology through analytics and software.
-
 <br><br>
 
 ## 🚀 What I'm working on
