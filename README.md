@@ -1,22 +1,41 @@
-### Hi, I'm Natan Schons 👋
+# Hi, I'm Natan Schons 👋
 
 
-- 🔭 Analytics Consultant @ SAP / Data Scientist / Kaufmann für Digitalisierungsmanagement / Computer Science Student
-- 🌐 I'm deeply intrigued by the world of technology and thrive on providing valuable insights through data analysis.
-- 📖 Developing mastery in Data Science, Data Engineer, BI, AI and ML. Check my [Portfolio!](https://www.datascienceportfol.io/natanschons)
-- 📫 Contact me by e-mail: natanschonsoficial@gmail.com
-- ✒️ See my content on [Medium](https://medium.com/@natanschons)
-- 🗣️ You can speak with me in Portuguese, English, German and Spanish
-- 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
+
+- 🔍 **Analytics Consultant @ SAP** | **Computer Science Student**  
+- 📊 Passionate about transforming data into meaningful insights.  
+- 🌐 Bridging the gap between business and technology through analytics and software.
 
 ##
+
+## 🚀 What I'm working on
+
+- Mastering topics in **Data Science**, **Data Engineering**, **AI** and **Cloud-Native Development**
+- Hands-on experience with **SAP Datasphere**, **SAP Analytics Cloud**, and **Python/SQL** analytics pipelines
+- Exploring the intersection of **intelligent systems** and **software engineering**
+- Check my [Portfolio!](https://www.datascienceportfol.io/natanschons)
+
+##
+
+## 💡 About Me
+
+- 🎓 Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + CS Student
+- ✍️ I enjoy writing about data and AI — check out my content on [Medium](https://medium.com/@natanschons)
+- 🗣️ You can speak with me in Portuguese, English, German and Spanish
+- 🧠 Lifelong learner, curious about how systems work, and how data can guide better decisions
+- 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
+- 📫 Contact me by e-mail: natanschonsoficial@gmail.com
+
+
+##
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=false"/>
 </div>
 
 ##
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,kubernetes,docker,html,css)](https://skillicons.dev)
 
@@ -25,7 +44,7 @@
 
 ##
 
-# 🌐 Connect with me:
+## 🌐 Connect with me:
  
 <div> 
   <a href = "mailto:natanschonsoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
