@@ -30,7 +30,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,kubernetes,docker,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,c,kubernetes,docker,html,css)](https://skillicons.dev)
 <br><br>
 
 
