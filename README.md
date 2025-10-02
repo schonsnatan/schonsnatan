@@ -25,7 +25,7 @@
 <br><br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=true"/>
 </div>
 <br><br>
 
