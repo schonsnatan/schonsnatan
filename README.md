@@ -16,7 +16,7 @@
 
 ## 💡 About Me
 
-- 🎓 Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + CS Student
+- 🎓 Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + Computer Science Student
 - ✍️ I enjoy writing about data and AI — check out my content on [Medium](https://medium.com/@natanschons)
 - 🗣️ You can speak with me in Portuguese, English, German and Spanish
 - 🧠 Lifelong learner, curious about how systems work, and how data can guide better decisions
@@ -24,15 +24,26 @@
 - 📫 Contact me by e-mail: natanschonsoficial@gmail.com
 <br><br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=schonsnatan&theme=dracula&hide_border=true"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=schonsnatan&show_icons=true&line_height=27&include_all_commits=true&theme=dracula" alt="My github stats" />
+</a>  
 <br><br>
 
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,c,postgres,postman,kubernetes,docker,html,css)](https://skillicons.dev)
 <br><br>
+
+## 🗣️ Languages: 
+
+| Language      | Proficiency                          |
+| ------------- | ------------------------------------ |
+| English       | C1 (Cambridge Higher Certified)      |
+| German        | C1 (DSD II Certified)                |
+| Spanish       | C1 (DELE Certified                   |
+| Portugues     | Native language                      |
+
+
 
 
 ## 🌐 Connect with me:
