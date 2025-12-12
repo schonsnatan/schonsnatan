@@ -31,7 +31,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,c,postgres,postman,kubernetes,docker,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,java,fastapi,git,c,postgres,mysql,postman,docker,eclipse,html,css)](https://skillicons.dev)
 <br><br>
 
 ## 🗣️ Languages: 
