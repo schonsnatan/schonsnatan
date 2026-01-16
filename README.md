@@ -41,7 +41,7 @@
 | English       | C1 (Cambridge Higher Certified)      |
 | German        | C1 (DSD II Certified)                |
 | Spanish       | C1 (DELE Certified)                  |
-| Portugues     | Native language                      |
+| Portuguese    | Native language                      |
 
 
 
