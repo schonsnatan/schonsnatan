@@ -1,27 +1,28 @@
-# Hi, I'm Natan Schons 👋
+# 👋 Hi, I'm Natan Schons
 
-- 🔍 **Analytics Consultant @ SAP** | **Computer Science Student**  
-- 📊 Passionate about transforming data into meaningful insights.  
-- 🌐 Bridging the gap between business and technology through analytics and software.
-- 💻 Let's connect: [![GitHub natanschons](https://img.shields.io/github/followers/schonsnatan?label=follow&style=social)](https://github.com/schonsnatan)
+- **Analytics Consultant @ SAP**
+- Passionate about transforming data into meaningful insights.  
+- Bridging the gap between business and technology through analytics and software.
+- Let's connect: [![GitHub natanschons](https://img.shields.io/github/followers/schonsnatan?label=follow&style=social)](https://github.com/schonsnatan)
 <br><br>
 
 ## 🚀 What I'm working on
 
-- Mastering topics in **Data Science**, **Data Engineering**, **AI** and **Cloud-Native Development**
-- Hands-on experience with **SAP Datasphere**, **SAP Analytics Cloud**, and **Python/SQL** analytics pipelines
+- Mastering topics in **Data Science**, **Data Engineering** and **GenAI**
+- Implementing Clean Architecture principles to transform AI research into scalable software products.
 - Exploring the intersection of **intelligent systems** and **software engineering**
+- Deep-diving into NLP and RAG to solve complex enterprise translation challenges.
 - Check my [Portfolio!](https://www.datascienceportfol.io/natanschons)
 <br><br>
 
 ## 💡 About Me
 
-- 🎓 Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + Computer Science Student
-- ✍️ I enjoy writing about data and AI — check out my content on [Medium](https://medium.com/@natanschons)
-- 🗣️ You can speak with me in Portuguese, English, German and Spanish
-- 🧠 Lifelong learner, curious about how systems work, and how data can guide better decisions
-- 🪄 “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
-- 📫 Contact me by e-mail: natanschonsoficial@gmail.com
+- Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + Computer Science Student
+- I write about the "Data-to-Product" lifecycle and AI engineering on [Medium](https://medium.com/@natanschons)
+- You can speak with me in Portuguese, English, German and Spanish
+- Lifelong learner, curious about how systems work, and how data can guide better decisions
+- “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
+- Contact me by e-mail: natanschonsoficial@gmail.com
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
