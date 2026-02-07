@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natan Schons
 
-- **Analytics Consultant @ SAP**
+- ** Data Scientist @ SAP**
 - Passionate about transforming data into meaningful insights.  
 - Bridging the gap between business and technology through analytics and software.
 - Let's connect: [![GitHub natanschons](https://img.shields.io/github/followers/schonsnatan?label=follow&style=social)](https://github.com/schonsnatan)
