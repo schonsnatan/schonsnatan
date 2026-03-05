@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-- Dual background in business and tech: *Kaufmann für Digitalisierungsmanagement* + Computer Science Student
+- Dual background in business and tech: Kaufmann für Digitalisierungsmanagement + Computer Science Student
 - I write about the "Data-to-Product" lifecycle and AI engineering on [Medium](https://medium.com/@natanschons)
 - You can speak with me in Portuguese, English, German and Spanish
 - Lifelong learner, curious about how systems work, and how data can guide better decisions
