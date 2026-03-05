@@ -3,8 +3,6 @@
 - **Data Scientist @ SAP**
 - Passionate about transforming data into meaningful insights.  
 - Bridging the gap between business and technology through analytics and software.
-- Let's connect: [![GitHub natanschons](https://img.shields.io/github/followers/schonsnatan)](https://github.com/schonsnatan)
-<br><br>
 
 ## 🚀 What I'm working on
 
