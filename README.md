@@ -6,7 +6,8 @@
 
 ## 🚀 What I'm working on
 
-- Mastering topics in **Data Science**, **Data Engineering** and **GenAI**
+- Building [oBriefing](https://www.obriefing.com.br). 
+- Currently working with **Knowledge Graphs**, **RAG** and **ETL Pipelines** and **AI Applications** 
 - Implementing Clean Architecture principles to transform AI research into scalable software products.
 - Exploring the intersection of **intelligent systems** and **software engineering**
 - Deep-diving into NLP and RAG to solve complex enterprise translation challenges.
